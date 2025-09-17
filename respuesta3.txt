@@ -1,0 +1,13 @@
+Pregunta 3: Para integrar presupuesto y alertas: 
+
+- Definir monto máximo por compra o mes 
+
+- Calcular suma de los productos en la lista 
+
+- Alertas si supera el presupuesto 
+
+- Integrar ofertas de los supermercados 
+
+- Priorizar productos imprescindibles vs opcionales 
+
+- Registrar historial de gasto
