@@ -1,0 +1,11 @@
+Pregunta 2: Las funcionalidades esenciales de una lista compartida son: 
+
+- Sincronización en tiempo real entre los usuarios 
+
+- Control de cambios y conflictos 
+
+- Notificaciones de cambios 
+
+- Permisos de edición y visualización 
+
+- Historial de cambios y opción de deshacer
