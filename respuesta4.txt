@@ -1,0 +1,9 @@
+Pregunta 4: Para organizar la lista según la ruta óptima: 
+
+- Mapear productos por pasillo y categoría 
+
+- Agrupar por pasillo para minimizar idas y vueltas 
+
+- Ordenar por rutas eficientes 
+
+- Mostrar lista y mapa ordenados
